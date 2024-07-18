@@ -1,0 +1,31 @@
+.panle{
+    display: flex; 
+    align-items: center; 
+    
+}
+
+.input-border{
+    margin-left: 40%; 
+    background-color: rgb(255, 255, 255); 
+    width: 210px;  
+    margin-top: 10px;
+}  
+
+.categories{
+    padding: 5px; 
+    margin-top: 10px;
+}
+
+.input-nameList{
+    border: none; 
+    height: 30px; 
+    
+} 
+
+.button-add{
+    border: none; 
+    background-color: chocolate;  
+    width: 30px; 
+    height: 30px;
+    
+}
